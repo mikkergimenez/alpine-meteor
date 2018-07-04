@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:4.8.3
+FROM nodejs/docker-node
 
 MAINTAINER Martin Bucko <bucko@treecom.net>
 
